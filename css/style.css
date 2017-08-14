@@ -13,15 +13,13 @@
     font-style: normal;
 }
 @import url('https://fonts.googleapis.com/css?family=Lato:300');
-body {
-	margin: 0;
-}
 .container {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
 	width: 1200px;
 	height: 600px;
+	margin: 0;
 	list-style: none;
 	padding: 50px 30px;
 	box-sizing: border-box;
